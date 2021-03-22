@@ -7,7 +7,6 @@
   - [Shell](chapter01-utils/section01-bash.md)
   - [Vim](chapter01-utils/section02-vim.md)
   - [Git](chapter01-utils/section03-git.md)
-  - [Markdown](chapter01-utils/section04-markdown.md)
   - [VSCode](chapter01-utils/section05-editor.md)
   - [Docker](chapter01-utils/section06-docker.md)
 
