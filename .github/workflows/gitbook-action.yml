@@ -1,0 +1,16 @@
+name: "Gitbook Build and Deploy"
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build:
+    name: Build Gitbook
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Checkout action
+        uses: actions/checkout@v2
+      - name: Publish
+        uses: tuliren/publish-gitbook@v1.0.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
