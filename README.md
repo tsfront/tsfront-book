@@ -1,4 +1,3 @@
-# 前端技术栈（Front Stack）
+# 前端电子书（TSFront Book）
 
-> 作为前端技术资料总结，并且以 Gitbook 形式发布：https://tsfront.github.io/tsfront-stack
-
+> 作为前端技术资料总结，并且以 Gitbook 形式发布：https://tsfront.github.io/tsfront-book
